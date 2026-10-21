@@ -7,3 +7,5 @@ To explore basic Git and GitHub commands for version control.
 - Git
 - GitHub
 - Visual Studio Code
+## Learning Outcome
+Learned Git initialization, cloning, staging, committing, and pushing changes.
